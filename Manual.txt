@@ -1,0 +1,70 @@
+    Bienvenido al manual de SoftSystem. Lea cuidadosamente antes de su uso, para empezar debe saber
+    que el sistema consta de 7 módulos que són:
+
+    1.- Módulo de Usuario: Permite  registrar  el  tipo  de  persona  que operará  de forma  parcial o total el 
+    sistema,   para   esto usted  usuario contará  de  dos opciones   de   ingreso   ya  sea  que elija el modo 
+    administrador    el   cual  dará   acceso   general    al    software   (tenga  cuidado a quien registra),    y el
+    siguiente es el de ayudante, este solo poseera el permiso de cobrar y observar el cierre de caja.         
+ 
+    2.- Módulo de Cliente:Para el ingreso de los datos es necesario que contribuya con toda la información
+    necesaria y verdadera así evitar posible  problemas  en  las  actualizaciones  del  programa que van de
+    forma incremental.     
+
+    3.- Módulo de Proveedor: Complete  la  información   requerida, usted podrá observar  los proveedores
+    en  orden  alfabético. En el primer casillero de texto que se ubica en  la parte superior de la lista, podrá
+    buscar el registro ya sea por su nombre o apellido.    
+
+    4.- Módulo de Producto: Este  módulo  esta  equipado  con dos opciones  de  busqueda,  su trabajo se 
+    facilitará si necesita encontrar un  producto por su  categoría, puede hacer click en la lista de opciones
+    seleccionar  el grupo de productos que contiene  dicha  categoría.  La siguiente  opción  de  busqueda
+    es la del cuadro de texto permite buscar por el nombre del producto.   
+    
+    5.- Módulo de Venta: Si  necesita  revisar  cuales fueron sus   ultimas  ventas en determinada fecha este
+    módulo le  permite   buscar  en   la  fecha  exacta  que  se  realizó la  venta,  puede escoger la opción de
+    buscar por día o filtrarlo   por el  mes,  si desea  ver de   nuevo  todas  la  ventas   haga  click en el botón
+    buscar de la sección ver todas las ventas.         
+
+    6.- Módulo de Caja:  Consta   de  dos   subsecciones;  Cobrar  y cierre de caja. El primero  le  ayudará  a 
+    realizar  una  venta  y  el  segundo  mostrará los detalles de las ventas realizadas hasta el momento.
+
+    Cobrar: Este   módulo   permitirá   relaizar  ventas   y observar  los  productos  vendidos en el día, lleva 4 
+    botones que son:
+    	Botón Elegir Producto: Muestra  una  lista  de  productos  disponibles  en stock,  si  este  
+	llega  a  cero  mostrará  un identificador  diciendo fuera de stock, puede  elgir  cualquier 
+    	producto  y  realizar  busquedas  rápidas  ingresando  la  descripción  o la categoría del
+    	producto en la parte superior de la ventana.
+
+    	Botón Calcular: En  la  parte  superior  se  pude  apreciar dos casilleros de texto, en la
+    	primera caja  ingrese  el  valor  recibido  por el cliente, a continuación presione calcular,
+	podrá visualizar  el total a devolver.
+
+    	Boton Vender: Asegurese que haya registros en la tabla si no contiene datos le mostra-
+	rá un  mensaje,  indicando la asusencia de productos.  Al contrario  si existe productos
+   	este mostrará un mensaje de opción  indicando si  desea registrar la venta con cliente
+    	o sin cliente, si  elije  la  opción de cliente observará  una  lista de ellos en caso de que
+    	no  identifique  al  cliente    requerido  tendrá   un  botón  que   permitirá  ingresar  a uno 
+   	sin la necesidad de abandonar la ventana y abrir el módulo de "Clientes".
+	
+    	Botón Eliminar: En caso de que elija mal el producto  tendrá la opción de eliminarlo de
+	la lista y elegir uno nuevo.
+
+    Cierre de Caja: Usted  podrá  observar  el  producto que  se  ha vendido durante ese día  y  al mismo 
+    tiempo indicará la cantidad con su precio y total, por ultimo en la parte inferior  podrá observar un valor,
+    el cual, es el indicador de la ganacia del día.
+
+    7.-Módulo de ayuda: Esta conformada por dos subsecciones.
+    	Acerca de SoftSystem: Si tiene dudas sobre  la empresa o nececita comunicarse direc-
+    	tamente; aquí encontrará información de la empresa, y su desarrollador.
+
+    	Manual de Uso: Consulte cualquier inquitud aquí.
+
+    -Las interfaces de los módulos Usuarios, Clientes, Proveedores y Productos constan de 3 botones.
+    Botón Nuevo: Permitirá ingresar nuevos registros, asegurese de llenar todos los campos, en caso de 
+    que no cumpla con dicho requisito se le notificará la obligación de completarlo.
+    Botón Eliminar: En caso de que cometa errores de registro o ya no sea de utilidad, dispondrá de esta 
+    opciónde deshacerse de un registro, si al intentar borrar recibe una notificación de "borre todas las  
+    ventas en el que está involucrado"  significa que existe ventas que contienen su información y para 
+    ejecutar esa función borre toda venta el cual involucre dicho registro.
+    Botón Actualizar: Hacer click si desea corregir errores o actualizar datos, le mostrará, la información
+    necesaria y así cabiar su contenido
+
